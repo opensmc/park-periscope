@@ -13,7 +13,7 @@ Our goal is to search the web to collect information about what ammenities each 
 spatial data and feed that combined product into an app or website viewer. 
 
 ##Data Collection
-[Data are on the OpenSMC's Google Drive, available here](https://docs.google.com/spreadsheets/d/1uEU9u3w0Bq6aUbLdGnvk3t_Omfi_iyWRJRXPiobJVww/edit#gid=0). 
+[Data are on the OpenSMC's Google Drive, available here](https://docs.google.com/spreadsheets/d/1-rAoxUBvlrf9MSeoKSR-ICclRfRSF2UHs0_TYcPDkls/edit#gid=0). 
 You may need to ask permission from Michelle or John to get access to the spreadsheet.
 
 1. To begin editing the spreadsheet, enter your initials into the **Author** column to claim a park to work on. This will make sure we're not
